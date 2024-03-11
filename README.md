@@ -17,7 +17,14 @@ cd api
 npm install
 
 ```
+## Configurando DB
 
+Certifique-se de ter o PostgreSQL instalado:
+```
+- 1. Execute as Query utilizando o Pgadmin
+- 2. No arquivo .Env configure de acordo com as configurações do seu banco (host,username,database,password)
+
+```
 ## Rodar aplicação
 
 Abra dois terminais para rodar Front e Api:
