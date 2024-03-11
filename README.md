@@ -21,7 +21,7 @@ npm install
 
 Certifique-se de ter o PostgreSQL instalado:
 ```
-- 1. Execute as Query utilizando o Pgadmin
+- 1. Execute as Query utilizando o Pgadmin ( As query estão em /api DDL.sql)
 - 2. No arquivo .Env configure de acordo com as configurações do seu banco (host,username,database,password)
 
 ```
